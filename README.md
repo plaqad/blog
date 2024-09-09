@@ -1,24 +1,10 @@
-# README
+# Review the Rails Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Analyze the models, controllers, and routes.
+- Look for issues related to security (e.g., session management), performance, and adherence to Rails conventions.
+- Identify potential bugs or problematic areas.
 
-Things you may want to cover:
+## Documentation
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Provide a detailed review document that identifies issues, potential improvements, and any concerns with the current implementation.
+- Suggest refactoring or design changes where necessary.
